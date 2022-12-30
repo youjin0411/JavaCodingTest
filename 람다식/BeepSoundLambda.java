@@ -1,3 +1,5 @@
+package 람다식;
+
 import javax.swing.Timer;
 
 public class BeepSoundLambda {

@@ -1,3 +1,5 @@
+package 동적계획법;
+
 import java.security.spec.RSAOtherPrimeInfo;
 import java.util.*;
 class IntegerTriangle {

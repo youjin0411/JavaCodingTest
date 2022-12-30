@@ -1,3 +1,5 @@
+package ArrayList;
+
 import java.util.*;
 class Point {
     int x,y;

@@ -1,3 +1,5 @@
+package 람다식;
+
 public class lambda {
     public static void main(String[] args) {
         //람다식 형식
