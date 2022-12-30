@@ -89,8 +89,6 @@ class SolutionFunc {
     }
 /////////////////////////////////////////////////
 // 괄호 문제
-
-
     class Solution {
         class P {
             int open, close;
